@@ -2,6 +2,8 @@ import requests
 import json
 
 #Request URL: https://discord.com/api/v9/guilds/837370613521842216/messages/search?channel_id=837370614243000345
+
+#Hay que verificar como hacer el timestep
 #https://discord.com/api/v9/guilds/837370613521842216/messages/search?channel_id=837370614243000345&content=spawnvehicles
 
 
