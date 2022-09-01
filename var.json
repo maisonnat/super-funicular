@@ -1,0 +1,15 @@
+si la coordenada X es positiva:
+multiplicar por 0,0002 y el resultado restarselo a 130.0135
+
+si la coordenada X es negativa:
+multiplicar por 0,0002 y el resultado sumarselo a 130.0135
+
+si la coordenada Y es positiva:
+multiplicar por 0,0002 y el resultado restarselo a 130.1071
+
+si la coordenada Y es negativa:
+multiplicar por 0,0002 y el resultado sumarselo a 130.1071
+
+https://scum-map.com/en/location/%7BcoordX%7D/%7BcoordY%7D
+[20:03]
+scum-map. com/en/location/{coordX}/{coordY}
